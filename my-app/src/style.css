@@ -1,0 +1,42 @@
+.ui.topmenu.menu {
+  height: 100px;
+  margin: 0;
+  border-radius: 0;
+  background: #000;
+}
+
+.ui.topmenu.menu .item {
+  font-size: 22px;
+/*  font-weight: bold;*/
+  color: #CCC;
+  text-transform: uppercase;
+}
+
+.ui.menu .container .item:hover {
+  background: #434039;
+  color: #CCC;
+}
+
+.ui.menu .logo {
+  width: 165px;
+  background: url(//www.hardrock.com/content/images/homev3/logos.png) no-repeat 0 -4px;
+}
+
+.background {
+  height: 550px;
+  background: url(//www.hardrock.com/cafes/honolulu/files/2384/Honolulu_Entrance2.jpg) no-repeat;
+  background-size: cover;
+}
+
+.ui.footer.menu {
+  margin: 0;
+  padding: 30px 0;
+  border-radius: 0;
+  font-size: 14px;
+  color: #FFF;
+  background: linear-gradient(to right,rgba(208,74,2,1) 0,rgba(255,115,38,1) 50%,rgba(210,74,2,1) 100%);
+}
+
+.ui.footer  a {
+  color: #FFF;
+}
